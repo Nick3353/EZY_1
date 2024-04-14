@@ -27,7 +27,34 @@
 }
 
 .location h2{
-    font-size: 40px;
+    font-size: 39px;
     line-height: 60px;
+    margin-top: 30px;
    
+}  
+
+.date p{
+    margin-right: 190px;
+}
+
+.dete{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.head{
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+    padding: 15px;
+    margin-top: 70px;
+    font-size: 20px;
+}
+
+.arrival{
+    display: flex;
+    flex-direction: row;
+    gap: 100px; 
+    font-size: 17px;
 }
