@@ -1,0 +1,33 @@
+
+.payment3_container{
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 740px;
+    height: 502px;
+    background:#d9d9d9;
+    top: 400px;
+    left: 400px;
+    border-radius: 12px;
+    flex-direction: column;
+}
+
+
+
+.info3{
+    display: flex;
+    flex-direction: row;
+}
+
+
+.info3 h3{
+    font-size: 48px;
+    color: #0094ff;
+}
+
+.location h2{
+    font-size: 40px;
+    line-height: 60px;
+   
+}
